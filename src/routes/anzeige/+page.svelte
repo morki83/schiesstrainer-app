@@ -1,1 +1,0 @@
-<h1>Anzeige folgt hier</h1>
