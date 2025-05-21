@@ -1,0 +1,17 @@
+{
+  "name": "schiesstrainer-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "latest",
+    "@sveltejs/kit": "latest",
+    "svelte": "latest",
+    "tailwindcss": "^3.4.1",
+    "vite": "^4.5.0"
+  }
+}
