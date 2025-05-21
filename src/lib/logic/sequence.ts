@@ -1,1 +1,0 @@
-// Logik für erweiterte Sequenzen könnte hier ergänzt werden
