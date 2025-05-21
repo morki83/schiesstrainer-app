@@ -1,1 +1,0 @@
-<h1>Schießtrainer App</h1>
